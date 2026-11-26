@@ -1,59 +1,40 @@
-<p align="center">
-  <img src="https://github.com/rooounaq.png" width="150" alt="Rounak Suraj Mallick" />
-</p>
+### Hi there, I'm <a href="https://www.linkedin.com/in/rounak-suraj-mallick/" target="_blank">Rounak Suraj Mallick</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1 align="center">Rounak Suraj Mallick</h1>
-<p align="center"><b>Data Analyst</b> · Excel · Data Cleaning · Dashboards</p>
-<p align="center"><i>I find the story hidden in the numbers and turn it into decisions.</i></p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-suraj-mallick/)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rounaksuraj@zohomail.in)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rounak-suraj-mallick/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+### Happy to see you here! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=rooounaq&color=0e76a8&style=flat-square)
 
----
+I'm Rounak Suraj Mallick, a Data Analyst from India. I enjoy turning raw, messy data into clear dashboards and insights that help people make better decisions. My work combines data analytics, digital marketing and AI automation, and I'm building a portfolio of real-world analysis projects here on GitHub.
 
-```sql
-SELECT name, role, focus, status
-FROM   analysts
-WHERE  username = 'rooounaq';
+<img align="right" alt="COVID-19 Dashboard" src="https://github.com/rooounaq/covid19-excel-dashboard/blob/main/images/dashboard.png?raw=true" width="400" />
 
--- name   : Rounak Suraj Mallick
--- role   : Data Analyst
--- focus  : Excel dashboards, business insights, data cleaning
--- status : Open to opportunities
-```
+**Talking about Personal Stuffs:**
 
----
+- 👨🏻‍💻 I'm currently working on Excel dashboards and data analysis projects;
+- 🚀 I'm learning SQL, Power BI and AI automation;
+- 📊 Latest project: [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard), analyzing 16.5M cases across 187 countries;
+- 💬 Ask me about Excel, dashboards and data cleaning, I'm happy to help;
+- 📫 How to reach me: rounaksuraj@zohomail.in
 
-## Featured Project
+</br>
 
-### [COVID-19 Global Dashboard: Regional Pandemic Analysis](https://github.com/rooounaq/covid19-excel-dashboard)
-> **Question:** How did 187 countries handle COVID-19, and where should pandemic control efforts focus?
->
-> **Findings:**
-> - Analyzed **16.5M confirmed cases** across 187 countries and 6 continents
-> - Classified countries by death rate: **29 High Risk**, 70 Moderate and 88 Low Risk
-> - **Asia had the highest average recovery rate (71.9%)**; Africa had the lowest (57.9%)
-> - **North America made up 30% of all confirmed cases**, driven by the US (4.29M)
-> - Population size only loosely tracked case counts: China's huge population had relatively few cases
->
-> **Impact:** Flagged high-risk countries, such as the UK, Italy, France and Belgium, as priority areas for pandemic control
->
-> `Excel` `IF / IFS` `VLOOKUP / HLOOKUP` `Pivot Tables` `Conditional Formatting` `Combo Charts`
+🛠️ **Tools I Work With:**
 
-<p align="center">
-  <img src="https://github.com/rooounaq/covid19-excel-dashboard/blob/main/images/dashboard.png?raw=true" width="800" alt="COVID-19 Dashboard" />
-</p>
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-0e76a8?style=flat-square)
 
-<!-- To add a new project later, copy the block above (from ### to the image),
-     paste it below, and rename "Featured Project" to "Case Studies". -->
+📂 **Featured Project:**
 
----
-
-## Toolkit
-
-| Excel Functions | Analysis | Visualization |
+| Project | What I did | Tools |
 |---|---|---|
-| IF · IFS · VLOOKUP · HLOOKUP | Data Cleaning | Column · Pie · Combo Charts |
-| Pivot Tables | Risk Categorization | Conditional Formatting |
-| Calculated Metrics (rates, %) | Comparative Analysis | Excel Dashboards |
+| [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard) | Analyzed 187 countries, classified 29 as High Risk, built a KPI dashboard | Excel, Pivot Tables, IFS, VLOOKUP |
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rooounaq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=rooounaq&hide_border=true" />
+</p>
