@@ -33,5 +33,6 @@ I'm Rounak Suraj Mallick, a Data Analyst from India. I work across the full anal
 | Project | What I did | Tools | Download |
 |---|---|---|---|
 | [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard) | Analyzed 187 countries, classified 29 as High Risk, built a KPI dashboard | Excel | [⬇️ Excel file](https://github.com/rooounaq/covid19-excel-dashboard/raw/main/MINI%20PROJECT%20DATASET%20-%20WEEK%2001.xlsx) |
+| [Sales Performance Analysis](https://github.com/rooounaq/sales-performance-analysis-excel) | Linked 3 datasets with XLOOKUP, analyzed ₹5.86M revenue by region, quarter and employee, built a bonus report | Excel | [⬇️ Excel file](https://github.com/rooounaq/sales-performance-analysis-excel/raw/main/Sales_Data.xlsx) |
 
 <sub>More SQL, Python and Power BI projects are being added.</sub>
