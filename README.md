@@ -5,16 +5,14 @@
 
 ### Happy to see you here! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=rooounaq&color=0e76a8&style=flat-square)
 
-I'm Rounak Suraj Mallick, a Data Analyst from India. I turn raw, messy data into clear dashboards and actionable insights that drive better business decisions. My work brings together data analytics, digital marketing and AI automation.
-
-<img align="right" alt="COVID-19 Dashboard" src="https://github.com/rooounaq/covid19-excel-dashboard/blob/main/images/dashboard.png?raw=true" width="400" />
+I'm Rounak Suraj Mallick, a Data Analyst from India. I turn raw, messy data into clear dashboards and actionable insights that drive better business decisions, using Excel, SQL, Python and Power BI. My work brings together data analytics, digital marketing and AI automation.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I work as a Data Analyst, building Excel dashboards and analytical reports;
-- 🎯 I specialize in data cleaning, KPI dashboards and turning numbers into decisions;
+- 👨🏻‍💻 I work as a Data Analyst, building dashboards, reports and data models with Excel, SQL, Python and Power BI;
+- 🎯 I specialize in data cleaning, SQL querying, exploratory analysis in Python and interactive Power BI dashboards;
 - 📊 Featured project: [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard), analyzing 16.5M cases across 187 countries;
-- 💬 Ask me about Excel, dashboards and data analysis;
+- 💬 Ask me about Excel, SQL, Python, Power BI and data analysis;
 - 📫 How to reach me: rounaksuraj@zohomail.in
 
 </br>
@@ -22,9 +20,11 @@ I'm Rounak Suraj Mallick, a Data Analyst from India. I turn raw, messy data into
 🛠️ **Tools I Work With:**
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-0e76a8?style=flat-square)
 
 📂 **Featured Project:**
 
