@@ -5,16 +5,16 @@
 
 ### Happy to see you here! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=rooounaq&color=0e76a8&style=flat-square)
 
-I'm Rounak Suraj Mallick, a Data Analyst from India. I enjoy turning raw, messy data into clear dashboards and insights that help people make better decisions. My work combines data analytics, digital marketing and AI automation, and I'm building a portfolio of real-world analysis projects here on GitHub.
+I'm Rounak Suraj Mallick, a Data Analyst from India. I turn raw, messy data into clear dashboards and actionable insights that drive better business decisions. My work brings together data analytics, digital marketing and AI automation.
 
 <img align="right" alt="COVID-19 Dashboard" src="https://github.com/rooounaq/covid19-excel-dashboard/blob/main/images/dashboard.png?raw=true" width="400" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I'm currently working on Excel dashboards and data analysis projects;
-- 🚀 I'm learning SQL, Power BI and AI automation;
-- 📊 Latest project: [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard), analyzing 16.5M cases across 187 countries;
-- 💬 Ask me about Excel, dashboards and data cleaning, I'm happy to help;
+- 👨🏻‍💻 I work as a Data Analyst, building Excel dashboards and analytical reports;
+- 🎯 I specialize in data cleaning, KPI dashboards and turning numbers into decisions;
+- 📊 Featured project: [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard), analyzing 16.5M cases across 187 countries;
+- 💬 Ask me about Excel, dashboards and data analysis;
 - 📫 How to reach me: rounaksuraj@zohomail.in
 
 </br>
@@ -31,10 +31,3 @@ I'm Rounak Suraj Mallick, a Data Analyst from India. I enjoy turning raw, messy 
 | Project | What I did | Tools |
 |---|---|---|
 | [COVID-19 Global Dashboard](https://github.com/rooounaq/covid19-excel-dashboard) | Analyzed 187 countries, classified 29 as High Risk, built a KPI dashboard | Excel, Pivot Tables, IFS, VLOOKUP |
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rooounaq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=rooounaq&hide_border=true" />
-</p>
