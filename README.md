@@ -7,6 +7,8 @@
 
 I'm Rounak Suraj Mallick, a Data Analyst from India. I turn raw, messy data into clear dashboards and actionable insights that drive better business decisions, using Excel, SQL, Python and Power BI. My work brings together data analytics, digital marketing and AI automation.
 
+<img align="right" alt="COVID-19 Dashboard" src="https://raw.githubusercontent.com/rooounaq/covid19-excel-dashboard/main/images/Screenshot%202026-11-26%20143311.png" width="400" />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I work as a Data Analyst, building dashboards, reports and data models with Excel, SQL, Python and Power BI;
